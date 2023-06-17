@@ -1,6 +1,4 @@
-# Leniolabs_CSS_03
-
-## Challenge - Flexbox and Grid Layout
+# Challenge - Flexbox and Grid Layout
 This challenge is designed to test your understanding of various CSS concepts, including absolute and relative units, selectors, flexbox, and grid layout. Your task is to create a responsive webpage layout using the provided HTML structure and apply CSS properties to achieve the desired design.
 
 **Instructions:**
